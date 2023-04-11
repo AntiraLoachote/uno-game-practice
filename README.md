@@ -1,7 +1,3 @@
-## LAB Exam: Instruction
-
-\*\*\*Write your student id, firstname, and lastname in a single line comment before starting your program, students who do not put this comment will get 50% taken off their score.\*\*\*
-
 # UnoCard Requirements
 
 Write a class called _UnoCard_ that contains two property called _name_, _centerCards_ and functions as follows:
@@ -22,9 +18,9 @@ Write a class called _UnoCard_ that contains two property called _name_, _center
 
 ## Functions:
 
-- **constructor(_name, _centerCards)**: creates a new LoyaltyPoint object with the provided parameter customerId.
-  - You must assign name property to named from "_name".
-  - You must assign centerCards property to named from "_centerCards".
+- **constructor(_name, _centerCards)**: creates a new UnoGame object with the provided parameter customerId.
+  - You must assign name property to name from "_name".
+  - You must assign centerCards property to centerCards from "_centerCards".
   - Your constructor must initial the "cardOnHands" property to an empty array ([]).
 
 
