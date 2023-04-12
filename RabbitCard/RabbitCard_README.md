@@ -54,5 +54,5 @@ Write a class called _RabbitCard_ functions as follows:
 
 ## How to run rabbitCard.test
 ```
-npm test rabbitCard.test.js
+npm test RabbitCard/rabbitCard.test.js
 ```
