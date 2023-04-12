@@ -38,8 +38,8 @@ Write a class called _RabbitCard_ functions as follows:
   - calculate "price" from A total distance with "pricePerTenKilometer" 
 
 - **exitDoor(_destinationName)**: Return "total of money" after cut off from cost  
-- money can less than 0 
-- cost from "getPrice" function
+  - money can less than 0  
+  - cost from "getPrice" function
 
 
 
